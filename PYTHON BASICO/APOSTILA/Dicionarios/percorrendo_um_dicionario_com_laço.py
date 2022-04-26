@@ -28,7 +28,7 @@ favorite_languages = {'jen': 'python', 'sarah': 'c', 'edward': 'ruby', 'phil':'p
 
 
 for nome, liguagem in favorite_languages.items():
-    print(f'{nome}  a sua liguagem favorita e {liguagem}')
+    print(f'{nome}  a sua linguagem favorita e {liguagem}')
 
 print('@'*25)
 
@@ -46,7 +46,7 @@ for nomes in favorite_languages.keys():
 
 """
 EXPLICANDO O CODIGO:
-    em for extraimos todoas as chaves do dicionario e armazenamos, uma de cada vez,
+    em for extraimos todas  as chaves do dicionario e armazenamos, uma de cada vez,
     na variavel nomes
 """
 print('-' *25)

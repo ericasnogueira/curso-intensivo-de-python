@@ -11,7 +11,7 @@ print(cars)
 
 print('@' *55)
 
-#Ordenando uma lisata temporariamente com a função SORTED()
+#Ordenando uma lista temporariamente com a função SORTED()
     #A função sorted() permite exibir a lista em uma ordem em particular, mas não afeta a ordem da lista
     #pode ser usada como reverse=True 
     #   ... print(sorted(lista, reverse=True))
